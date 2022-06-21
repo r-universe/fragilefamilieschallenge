@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ffmetadata"]
+	path = ffmetadata
+	url = https://github.com/fragilefamilieschallenge/ffmetadata
+	shallow = true
+	registered = true
